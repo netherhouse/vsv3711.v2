@@ -1,0 +1,22 @@
+    <header class="header" id="header">
+      <div class="navbar">
+        <div><a href="#" class="logo">VCV</a></div>
+        <ul class="links">
+          <li><a href="history">История концертов</a></li>
+          <li><a href="about">О нас</a></li>
+          <li><a href="events">Офиша</a></li>
+          <li><a href="contacts">Контакты</a></li>
+        </ul>
+        <a href="#" class="action__btn__language">Ru</a>
+        <div class="toggle__btn">
+          <i class="fa-solid fa-bars"></i>
+        </div>
+      </div>
+      <div class="dropdown__menu">
+        <li><a href="history">История концертов</a></li>
+        <li><a href="about">О нас</a></li>
+        <li><a href="events">Офиша</a></li>
+        <li><a href="contacts">Контакты</a></li>
+        <li><a href="#" class="action__btn__language">Ru</a></li>
+      </div>
+    </header>
